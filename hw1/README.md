@@ -1,7 +1,6 @@
 # Imitation Learning
-       Envs    | Expert Reward Mean(std) | Behavior Cloning | DAgger |
-|:-------------:|------------------------:|-----------------:|-------:|
-|Ant-v1         | 4802.707680  | 4767.6190| 4784.7029|
+       Envs    | Expert Reward Mean | Behavior Cloning | DAgger |
+|Ant-v1        | 4802.707680  | 4767.6190| 4784.7029|
 |HalfCheetah-v1 | 4126.918521  | 4107.9111| 4128.2978|
 |Hopper-v1      | 3777.821053  | 2910.7559|3776.3047|
 |Humanoid-v1    | 10429.852380 | 8692.7145| 10306.7463 |
