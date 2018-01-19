@@ -10,4 +10,4 @@ Basically includes an implementation of two primitive imitation learning algorit
 - [x] HW 1; Imitation Learning, Dagger
 - [ ] HW 2
 - [ ] HW 3
-- [] HW 4; Simple Policy Gradient
+- [ ] HW 4 
